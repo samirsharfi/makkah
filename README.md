@@ -1,11 +1,11 @@
-### $ yarn ###
-### $ patch-package ###
+` $ yarn `
 
-### $ cd ios ###
+` $ patch-package `
 
-### $ pod install && cd .. ###
+` $ cd ios `
 
-### $ yarn start ###
+` $ pod install && cd .. `
+
+` $ yarn start `
 
 ## Then open the xcode and open the ios folder build it and run it ... cheers!
-
