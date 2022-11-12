@@ -12,8 +12,8 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		983A750B57E0721AC9C45898 /* libPods-makkah.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D5EF742054E6E0F71BC9966 /* libPods-makkah.a */; };
-		DBDF65B7A3E33730B373987A /* libPods-makkah-makkahTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EFF46C0F67F95134EB9EE643 /* libPods-makkah-makkahTests.a */; };
+		9F38ABDBC4E63976F495D488 /* libPods-makkah-makkahTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AD619900537771C7FE56ABD /* libPods-makkah-makkahTests.a */; };
+		CF5B503D03BEC946194C6511 /* libPods-makkah.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E1DF468FD23FB4CA4874D88 /* libPods-makkah.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,14 +36,14 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = makkah/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = makkah/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = makkah/main.m; sourceTree = "<group>"; };
-		1D5EF742054E6E0F71BC9966 /* libPods-makkah.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-makkah.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2396E8A38C2AA6F565D008EB /* Pods-makkah-makkahTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-makkah-makkahTests.debug.xcconfig"; path = "Target Support Files/Pods-makkah-makkahTests/Pods-makkah-makkahTests.debug.xcconfig"; sourceTree = "<group>"; };
-		27EBEAE5BEDE102EF45A03FF /* Pods-makkah-makkahTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-makkah-makkahTests.release.xcconfig"; path = "Target Support Files/Pods-makkah-makkahTests/Pods-makkah-makkahTests.release.xcconfig"; sourceTree = "<group>"; };
+		5AD619900537771C7FE56ABD /* libPods-makkah-makkahTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-makkah-makkahTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E1DF468FD23FB4CA4874D88 /* libPods-makkah.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-makkah.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		78FE16C70EFB31317E3BFDF6 /* Pods-makkah-makkahTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-makkah-makkahTests.release.xcconfig"; path = "Target Support Files/Pods-makkah-makkahTests/Pods-makkah-makkahTests.release.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = makkah/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		8258A6851E36FD77BEE24399 /* Pods-makkah.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-makkah.debug.xcconfig"; path = "Target Support Files/Pods-makkah/Pods-makkah.debug.xcconfig"; sourceTree = "<group>"; };
-		91A7676784813322B1913C86 /* Pods-makkah.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-makkah.release.xcconfig"; path = "Target Support Files/Pods-makkah/Pods-makkah.release.xcconfig"; sourceTree = "<group>"; };
+		97FFA075CAB7709725CFD4BF /* Pods-makkah.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-makkah.debug.xcconfig"; path = "Target Support Files/Pods-makkah/Pods-makkah.debug.xcconfig"; sourceTree = "<group>"; };
+		C56A1282CEB788057E0D39E4 /* Pods-makkah.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-makkah.release.xcconfig"; path = "Target Support Files/Pods-makkah/Pods-makkah.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		EFF46C0F67F95134EB9EE643 /* libPods-makkah-makkahTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-makkah-makkahTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD473B72024EB51945957E21 /* Pods-makkah-makkahTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-makkah-makkahTests.debug.xcconfig"; path = "Target Support Files/Pods-makkah-makkahTests/Pods-makkah-makkahTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,7 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBDF65B7A3E33730B373987A /* libPods-makkah-makkahTests.a in Frameworks */,
+				9F38ABDBC4E63976F495D488 /* libPods-makkah-makkahTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,7 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				983A750B57E0721AC9C45898 /* libPods-makkah.a in Frameworks */,
+				CF5B503D03BEC946194C6511 /* libPods-makkah.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -100,8 +100,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				1D5EF742054E6E0F71BC9966 /* libPods-makkah.a */,
-				EFF46C0F67F95134EB9EE643 /* libPods-makkah-makkahTests.a */,
+				6E1DF468FD23FB4CA4874D88 /* libPods-makkah.a */,
+				5AD619900537771C7FE56ABD /* libPods-makkah-makkahTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -140,10 +140,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				8258A6851E36FD77BEE24399 /* Pods-makkah.debug.xcconfig */,
-				91A7676784813322B1913C86 /* Pods-makkah.release.xcconfig */,
-				2396E8A38C2AA6F565D008EB /* Pods-makkah-makkahTests.debug.xcconfig */,
-				27EBEAE5BEDE102EF45A03FF /* Pods-makkah-makkahTests.release.xcconfig */,
+				97FFA075CAB7709725CFD4BF /* Pods-makkah.debug.xcconfig */,
+				C56A1282CEB788057E0D39E4 /* Pods-makkah.release.xcconfig */,
+				FD473B72024EB51945957E21 /* Pods-makkah-makkahTests.debug.xcconfig */,
+				78FE16C70EFB31317E3BFDF6 /* Pods-makkah-makkahTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -155,12 +155,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "makkahTests" */;
 			buildPhases = (
-				378C61C20744A93987C71EA8 /* [CP] Check Pods Manifest.lock */,
+				32D2F501CD510ECF0D0C11E5 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				961FE893493D99AD8EF47DEA /* [CP] Embed Pods Frameworks */,
-				62F4667F49DBBF5B4C895D5C /* [CP] Copy Pods Resources */,
+				2C67AF71D3F0ED32CB78FA8A /* [CP] Embed Pods Frameworks */,
+				EE69635D726D28DCDCFCE492 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -176,14 +176,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "makkah" */;
 			buildPhases = (
-				1B7314F9C484EBB177481C0F /* [CP] Check Pods Manifest.lock */,
+				F0FF948D301E97E28374CA14 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				BFE580A239CEAAEF1E2100C7 /* [CP] Embed Pods Frameworks */,
-				E43F2881F59038249C2BB91B /* [CP] Copy Pods Resources */,
+				FF2501158C5CBF73849A1C25 /* [CP] Embed Pods Frameworks */,
+				CB31709C3DA426ECDF9D758F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -266,29 +266,24 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		1B7314F9C484EBB177481C0F /* [CP] Check Pods Manifest.lock */ = {
+		2C67AF71D3F0ED32CB78FA8A /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-makkah-makkahTests/Pods-makkah-makkahTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
+			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-makkah-checkManifestLockResult.txt",
+				"${PODS_ROOT}/Target Support Files/Pods-makkah-makkahTests/Pods-makkah-makkahTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-makkah-makkahTests/Pods-makkah-makkahTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		378C61C20744A93987C71EA8 /* [CP] Check Pods Manifest.lock */ = {
+		32D2F501CD510ECF0D0C11E5 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -310,7 +305,24 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		62F4667F49DBBF5B4C895D5C /* [CP] Copy Pods Resources */ = {
+		CB31709C3DA426ECDF9D758F /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EE69635D726D28DCDCFCE492 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -327,55 +339,26 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-makkah-makkahTests/Pods-makkah-makkahTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		961FE893493D99AD8EF47DEA /* [CP] Embed Pods Frameworks */ = {
+		F0FF948D301E97E28374CA14 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-makkah-makkahTests/Pods-makkah-makkahTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			name = "[CP] Embed Pods Frameworks";
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-makkah-makkahTests/Pods-makkah-makkahTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-makkah-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-makkah-makkahTests/Pods-makkah-makkahTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		BFE580A239CEAAEF1E2100C7 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E43F2881F59038249C2BB91B /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-resources.sh\"\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -395,6 +378,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "export RCT_METRO_PORT=\"${RCT_METRO_PORT:=8081}\"\necho \"export RCT_METRO_PORT=${RCT_METRO_PORT}\" > \"${SRCROOT}/../node_modules/react-native/scripts/.packager.env\"\nif [ -z \"${RCT_NO_LAUNCH_PACKAGER+xxx}\" ] ; then\n  if nc -w 5 -z localhost ${RCT_METRO_PORT} ; then\n    if ! curl -s \"http://localhost:${RCT_METRO_PORT}/status\" | grep -q \"packager-status:running\" ; then\n      echo \"Port ${RCT_METRO_PORT} already in use, packager is either not running or not running correctly\"\n      exit 2\n    fi\n  else\n    open \"$SRCROOT/../node_modules/react-native/scripts/launchPackager.command\" || echo \"Can't start packager automatically\"\n  fi\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		FF2501158C5CBF73849A1C25 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-makkah/Pods-makkah-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -430,7 +430,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2396E8A38C2AA6F565D008EB /* Pods-makkah-makkahTests.debug.xcconfig */;
+			baseConfigurationReference = FD473B72024EB51945957E21 /* Pods-makkah-makkahTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -457,7 +457,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 27EBEAE5BEDE102EF45A03FF /* Pods-makkah-makkahTests.release.xcconfig */;
+			baseConfigurationReference = 78FE16C70EFB31317E3BFDF6 /* Pods-makkah-makkahTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -481,7 +481,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8258A6851E36FD77BEE24399 /* Pods-makkah.debug.xcconfig */;
+			baseConfigurationReference = 97FFA075CAB7709725CFD4BF /* Pods-makkah.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -507,7 +507,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 91A7676784813322B1913C86 /* Pods-makkah.release.xcconfig */;
+			baseConfigurationReference = C56A1282CEB788057E0D39E4 /* Pods-makkah.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
